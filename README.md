@@ -3,6 +3,9 @@
 ![Logo do projeto](public/logo.svg)
 
 </div>
+# Como usar o projeto
+
+Faça o git colne do repositorio e no terminal execute o npm install para instalar as dependencias, npm ci e depois npm run dev para abrir o projeto, caso nao funcione o vercel
 
 # Descrição do Projeto
 
